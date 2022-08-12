@@ -1,7 +1,9 @@
 
 
 
+### PortifolioWeb
 
+<a href="file:///Users/danielmorais/Documents/Trybe/pastaGitTeste/git_teste/index.html">Exercício 3.1</a>
 
 
 
@@ -9,7 +11,8 @@
 
 <div align="center">
   <a href="https://github.com/danielmorais1993">
-  <img height="180em" src="#"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmorais1993&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
