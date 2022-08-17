@@ -3,7 +3,7 @@
 
 
 
-<a class="Git-style" href="https://github.com/danielmorais1993/Trybe-Exercicios"> Repositório de exercícios </a>
+<a class="Git-style" href="https://github.com/danielmorais1993/Trybe-Exercicios"> Trybe-Exercises </a>
 
 
 <a class="Git-style" href="https://danielmorais1993.github.io/index.html">Portfolio Web</a>
