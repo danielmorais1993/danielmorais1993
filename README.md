@@ -29,7 +29,10 @@
   
 </div>
   
-  ##
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=danielmorais1993&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=username=danielmorais1993&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=username=danielmorais1993&theme=nord_dark) 
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=username=danielmorais1993&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=arthurspk&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) 
+ 
  
 <div> 
  
@@ -41,14 +44,7 @@
    
   <a href="https://www.linkedin.com/in/daniel-morais-de-oliveira-bb3434240/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=danielmorais1993&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=username=danielmorais1993&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=username=danielmorais1993&theme=nord_dark) |
-| :-: | :-: | :-: |
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=username=danielmorais1993&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=arthurspk&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
-| :-: | :-: |
-
-  
- 
   
  
 </div>
