@@ -16,6 +16,7 @@
   <a href="https://github.com/danielmorais1993">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielmorais1993&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmorais1993&layout=compact&langs_count=7&theme=dracula"/>
+    
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=danielmorais1993&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danielmorais1993&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danielmorais1993&theme=nord_dark) |
 | :-: | :-: | :-: |
 
